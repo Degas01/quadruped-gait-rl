@@ -88,7 +88,11 @@ The physics simulation provides:
   
 <img width="898" height="477" alt="image" src="https://github.com/user-attachments/assets/98252937-cb71-4955-a2c1-df554e717279" />
 
+## Simulink model of quadruped walking robot
+
 <img width="844" height="463" alt="image" src="https://github.com/user-attachments/assets/f70a23c3-6fed-4418-bba7-490f5d5fa8ca" />
+
+## Quadruped robot depiction
 
 ---
 
