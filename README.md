@@ -64,6 +64,8 @@ This project follows a modular robotics architecture comprising:
 - Full system architecture block diagram
   
 <img width="837" height="439" alt="image" src="https://github.com/user-attachments/assets/82fef2cd-ed7d-4d87-a3d3-b0dcce5a0626" />
+
+## The reinforcement learning framework including the three major feature signals: action, state and reward
 Adapted from Eriksson et al. (2003, p. 5)
 
 ---
@@ -152,6 +154,8 @@ The final reward formulation includes weighted terms for:
 - Tanh output scaling
   
 <img width="896" height="630" alt="image" src="https://github.com/user-attachments/assets/e3eb0949-91af-431e-bfa9-9cdd47de820f" />
+
+## Overview of the adaptive neural control implemented on a quadruped robot in both simulation and real world
 Adapted from Sut et al. (2023)
 
 ### Critic Network
@@ -161,9 +165,12 @@ Adapted from Sut et al. (2023)
 - TD3 algorithm framework
   
 <img width="849" height="535" alt="image" src="https://github.com/user-attachments/assets/46f3be23-ad3b-4213-8ca1-bd69236da50f" />
+
+## TD3 algorithm framework
 Adapted from Liu et al. (2022, p. 10)
 
 <img width="778" height="549" alt="image" src="https://github.com/user-attachments/assets/ad1de59c-03cb-4170-a8f5-4d8c8138b147" />
+
 ## Structure of DDPG algorithm a = π (s|δ π) and critic network with function Q (s, a|δ Q) respectively
 Adapted from Wang et al. (2020)
 
@@ -197,6 +204,7 @@ Comparison of TD3 vs DDPG:
 | Final Reward | Higher | Lower |
 
 <img width="946" height="509" alt="image" src="https://github.com/user-attachments/assets/0788a232-4fbd-48d1-a9d2-05872d05b03d" />
+
 ## TD3 and DDPG comparison between time steps and average reward
 
 ---
@@ -210,11 +218,13 @@ Comparison of TD3 vs DDPG:
 | TD3 | https://github.com/user-attachments/assets/3f8153c4-36c7-4e55-975e-644219c9a8db |
 | DDPG | https://github.com/user-attachments/assets/609716b6-9c20-4be3-ba84-026b55bc7cd1 |
 
-## Starting Point 
 <img width="652" height="344" alt="image" src="https://github.com/user-attachments/assets/eb232336-00d6-45a7-aa80-ddf21138dfe0" />  
 
-## End Point
+## Starting Point 
+
 <img width="652" height="341" alt="image" src="https://github.com/user-attachments/assets/24d9e0e1-437f-4edd-8fe1-b0d9af20a095" />
+
+## End Point
 
 ---
 
