@@ -1,0 +1,117 @@
+# ===============================
+# General
+# ===============================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+temp/
+tmp/
+.cache/
+
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+build/
+dist/
+pip-wheel-metadata/
+.coverage
+htmlcov/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+venv/
+env/
+.venv/
+
+# ===============================
+# Jupyter
+# ===============================
+.ipynb_checkpoints
+
+# ===============================
+# MATLAB / Simulink
+# ===============================
+*.asv
+*.m~
+*.mex*
+*.fig
+*.autosave
+*.slxc
+*.mdl.autosave
+*.mat
+slprj/
+work/
+
+# ===============================
+# Simscape / Simulink Cache
+# ===============================
+*simscape*
+simulink_cache/
+SimulinkCodegen/
+codegen/
+
+# ===============================
+# Reinforcement Learning Artifacts
+# ===============================
+checkpoints/
+models/checkpoints/
+tensorboard/
+runs/
+logs/
+*.tfevents.*
+
+# ===============================
+# Data / Experiment Outputs
+# ===============================
+data/raw/
+data/processed/
+results/raw/
+results/tmp/
+
+# ===============================
+# Video / Media Files
+# (Keep only selected demos in assets/)
+# ===============================
+*.avi
+*.mov
+*.mp4
+*.gif
+
+# ===============================
+# OS Specific
+# ===============================
+*.swp
+*.bak
+*.old
+
+# ===============================
+# VS Code / IDEs
+# ===============================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ===============================
+# Docker
+# ===============================
+docker-compose.override.yml
+
+# ===============================
+# Git LFS Pointer Fix
+# ===============================
+*.lfs
+
+# ===============================
+# Large Files (Handled via Git LFS or Releases)
+# ===============================
+matlab/large/
+assets/raw_videos/
