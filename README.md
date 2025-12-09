@@ -127,6 +127,7 @@ The agent receives state observations including:
 Actions are continuous joint torque commands.
 
 <img width="610" height="477" alt="image" src="https://github.com/user-attachments/assets/954b71b5-13c2-48b7-bb04-12875ba45910" />
+
 ## RL environment interaction diagram
 
 ---
