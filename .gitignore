@@ -1,0 +1,53 @@
+# ===============================
+# General
+# ===============================
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+temp/
+tmp/
+.cache/
+
+# ===============================
+# Simscape / Simulink Cache
+# ===============================
+*simscape*
+simulink_cache/
+SimulinkCodegen/
+codegen/
+
+# ===============================
+# Reinforcement Learning Artifacts
+# ===============================
+checkpoints/
+models/checkpoints/
+tensorboard/
+runs/
+logs/
+*.tfevents.*
+
+# ===============================
+# Data / Experiment Outputs
+# ===============================
+data/raw/
+data/processed/
+results/raw/
+results/tmp/
+
+# ===============================
+# Video / Media Files
+# (Keep only selected demos in assets/)
+# ===============================
+*.avi
+*.mov
+*.mp4
+*.gif
+
+# ===============================
+# VS Code / IDEs
+# ===============================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
