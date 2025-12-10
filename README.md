@@ -1,3 +1,5 @@
+                                            ![Unitree-A1-RobotDogs](https://github.com/user-attachments/assets/14eb4f80-9918-4cf6-be25-b247dd02e2d2)
+
 # Quadruped Gait Control using Reinforcement Learning (MATLAB & Simulink)
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-Simulink-orange)
