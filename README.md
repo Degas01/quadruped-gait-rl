@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 This repository contains the complete implementation, simulation framework, training experiments and results from my Bachelor of Mechanical Engineering Final Year Project:
 
