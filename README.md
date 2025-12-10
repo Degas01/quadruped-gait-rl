@@ -1,8 +1,8 @@
+# Quadruped Gait Control using Reinforcement Learning (MATLAB & Simulink)
+
 <p align="center">
   <img width="528" height="515" alt="unitree-a1" src="https://github.com/user-attachments/assets/e143128b-52c5-4850-95cc-45847e011f18" />
 </p>
-
-# Quadruped Gait Control using Reinforcement Learning (MATLAB & Simulink)
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-Simulink-orange)
 ![Simscape](https://img.shields.io/badge/Simscape-Multibody-blue)
