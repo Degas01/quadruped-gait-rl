@@ -122,11 +122,19 @@ The quadruped robot model represents a legged system with:
 
 Algorithms implemented:
 
+<div align="center">
+
+<table>
+
 | Algorithm | Description |
 |----------|-------------|
 | DDPG | Actor–Critic continuous control |
 | TD3 | Improved DDPG with twin critics |
 | mDDPG | Modified DDPG variant |
+
+</table>
+
+</div>
 
 The agent receives state observations including:
 
@@ -221,11 +229,19 @@ Training was performed over multiple episodes with replay buffers and policy noi
 
 Comparison of TD3 vs DDPG:
 
+<div align="center">
+
+<table>
+
 | Metric | TD3 | DDPG |
 |--------|-----|------|
 | Convergence Speed | Faster | Slower |
 | Stability | High | Medium |
 | Final Reward | Higher | Lower |
+
+</table>
+
+</div>
 
 <p align="center">
   <img width="946" height="509" alt="image" src="https://github.com/user-attachments/assets/0788a232-4fbd-48d1-a9d2-05872d05b03d" />
