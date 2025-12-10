@@ -67,7 +67,9 @@ This project follows a modular robotics architecture comprising:
 - Training and evaluation pipeline
 - Full system architecture block diagram
   
-<img width="837" height="439" alt="image" src="https://github.com/user-attachments/assets/82fef2cd-ed7d-4d87-a3d3-b0dcce5a0626" />
+<p align="center">
+  <img width="837" height="439" alt="image" src="https://github.com/user-attachments/assets/82fef2cd-ed7d-4d87-a3d3-b0dcce5a0626" />
+</p>
 
 ## The reinforcement learning framework including the three major feature signals: action, state and reward
 Adapted from Eriksson et al. (2003, p. 5)
@@ -90,11 +92,15 @@ The physics simulation provides:
 - Center of mass tracking
 - Environment state block diagram
   
-<img width="898" height="477" alt="image" src="https://github.com/user-attachments/assets/98252937-cb71-4955-a2c1-df554e717279" />
+<p align="center">
+  <img width="898" height="477" alt="image" src="https://github.com/user-attachments/assets/98252937-cb71-4955-a2c1-df554e717279" />
+</p>
 
 ## Simulink model of quadruped walking robot
 
-<img width="844" height="463" alt="image" src="https://github.com/user-attachments/assets/f70a23c3-6fed-4418-bba7-490f5d5fa8ca" />
+<p align="center">
+  <img width="844" height="463" alt="image" src="https://github.com/user-attachments/assets/f70a23c3-6fed-4418-bba7-490f5d5fa8ca" />
+</p>
 
 ## Quadruped robot depiction
 
@@ -130,7 +136,9 @@ The agent receives state observations including:
 
 Actions are continuous joint torque commands.
 
-<img width="610" height="477" alt="image" src="https://github.com/user-attachments/assets/954b71b5-13c2-48b7-bb04-12875ba45910" />
+<p align="center">
+  <img width="610" height="477" alt="image" src="https://github.com/user-attachments/assets/954b71b5-13c2-48b7-bb04-12875ba45910" />
+</p>
 
 ## RL environment interaction diagram
 
@@ -162,7 +170,9 @@ The final reward formulation includes weighted terms for:
 - ReLU activations
 - Tanh output scaling
   
-<img width="896" height="630" alt="image" src="https://github.com/user-attachments/assets/e3eb0949-91af-431e-bfa9-9cdd47de820f" />
+<p align="center">
+  <img width="896" height="630" alt="image" src="https://github.com/user-attachments/assets/e3eb0949-91af-431e-bfa9-9cdd47de820f" />
+</p>
 
 ## Overview of the adaptive neural control implemented on a quadruped robot in both simulation and real world
 Adapted from Sut et al. (2023)
@@ -173,12 +183,16 @@ Adapted from Sut et al. (2023)
 - State and action concatenated input
 - TD3 algorithm framework
   
-<img width="849" height="535" alt="image" src="https://github.com/user-attachments/assets/46f3be23-ad3b-4213-8ca1-bd69236da50f" />
+<p align="center">
+  <img width="849" height="535" alt="image" src="https://github.com/user-attachments/assets/46f3be23-ad3b-4213-8ca1-bd69236da50f" />
+</p>
 
 ## TD3 algorithm framework
 Adapted from Liu et al. (2022, p. 10)
 
-<img width="778" height="549" alt="image" src="https://github.com/user-attachments/assets/ad1de59c-03cb-4170-a8f5-4d8c8138b147" />
+<p align="center">
+  <img width="778" height="549" alt="image" src="https://github.com/user-attachments/assets/ad1de59c-03cb-4170-a8f5-4d8c8138b147" />
+</p>
 
 ## Structure of DDPG algorithm a = π (s|δ π) and critic network with function Q (s, a|δ Q) respectively
 Adapted from Wang et al. (2020)
@@ -212,7 +226,9 @@ Comparison of TD3 vs DDPG:
 | Stability | High | Medium |
 | Final Reward | Higher | Lower |
 
-<img width="946" height="509" alt="image" src="https://github.com/user-attachments/assets/0788a232-4fbd-48d1-a9d2-05872d05b03d" />
+<p align="center">
+  <img width="946" height="509" alt="image" src="https://github.com/user-attachments/assets/0788a232-4fbd-48d1-a9d2-05872d05b03d" />
+</p>
 
 ## TD3 and DDPG comparison between time steps and average reward
 
@@ -227,11 +243,15 @@ Comparison of TD3 vs DDPG:
 | TD3 | https://github.com/user-attachments/assets/3f8153c4-36c7-4e55-975e-644219c9a8db |
 | DDPG | https://github.com/user-attachments/assets/609716b6-9c20-4be3-ba84-026b55bc7cd1 |
 
-<img width="652" height="344" alt="image" src="https://github.com/user-attachments/assets/eb232336-00d6-45a7-aa80-ddf21138dfe0" />  
+<p align="center">
+  <img width="652" height="344" alt="image" src="https://github.com/user-attachments/assets/eb232336-00d6-45a7-aa80-ddf21138dfe0" />
+</p>  
 
 ## Starting Point 
 
-<img width="652" height="341" alt="image" src="https://github.com/user-attachments/assets/24d9e0e1-437f-4edd-8fe1-b0d9af20a095" />
+<p align="center">
+  <img width="652" height="341" alt="image" src="https://github.com/user-attachments/assets/24d9e0e1-437f-4edd-8fe1-b0d9af20a095" />
+</p> 
 
 ## End Point
 
