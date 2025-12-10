@@ -239,10 +239,17 @@ Comparison of TD3 vs DDPG:
 
 ### Gait Demonstrations
 
-| Algorithm | Demo |
-|----------|------|
-| TD3 | https://github.com/user-attachments/assets/3f8153c4-36c7-4e55-975e-644219c9a8db |
-| DDPG | https://github.com/user-attachments/assets/609716b6-9c20-4be3-ba84-026b55bc7cd1 |
+#### TD3  
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/3f8153c4-36c7-4e55-975e-644219c9a8db" width="700" controls muted autoplay loop></video>
+</p>
+
+#### DDPG 
+
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/609716b6-9c20-4be3-ba84-026b55bc7cd1" width="700" controls muted autoplay loop></video>
+</p>
 
 <p align="center">
   <img width="652" height="344" alt="image" src="https://github.com/user-attachments/assets/eb232336-00d6-45a7-aa80-ddf21138dfe0" />
