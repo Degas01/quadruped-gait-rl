@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://some_place.com/image.png](https://github.com/user-attachments/assets/197ebbb8-5569-464c-a823-f2e7afe695bc"/>
+  <img width="528" height="515" alt="unitree-a1" src="https://github.com/user-attachments/assets/e143128b-52c5-4850-95cc-45847e011f18" />
 </p>
 
 # Quadruped Gait Control using Reinforcement Learning (MATLAB & Simulink)
