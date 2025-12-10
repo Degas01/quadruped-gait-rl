@@ -9,6 +9,7 @@
 ![RL](https://img.shields.io/badge/Reinforcement%20Learning-TD3%20%7C%20DDPG-green)
 ![Robotics](https://img.shields.io/badge/Robotics-Quadruped-black)
 ![License](https://img.shields.io/badge/License-Academic-lightgrey)
+[![Coventry University](https://img.shields.io/badge/Institution-Coventry_University-purple.svg)]((https://www.coventry.ac.uk/))
 
 ---
 
