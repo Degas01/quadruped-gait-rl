@@ -1,7 +1,6 @@
 <p align="center">
-  ![a1](https://github.com/user-attachments/assets/b9508f40-4fd4-4d4e-89bb-35405b8015d5)
+  <img src="http://some_place.com/image.png](https://github.com/user-attachments/assets/197ebbb8-5569-464c-a823-f2e7afe695bc"/>
 </p>
-
 
 # Quadruped Gait Control using Reinforcement Learning (MATLAB & Simulink)
 
